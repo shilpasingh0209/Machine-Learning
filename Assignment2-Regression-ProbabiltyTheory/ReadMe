@@ -1,2 +1,0 @@
-# Assignment overview
-This assignment was designed to review gradient descent regression with regularization and probability theory. It required us to load a cleaned version of the dataset House Sales , learn and predict using your own implemented linear models, and evaluate the models.  
